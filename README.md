@@ -17,8 +17,16 @@ My favorite learning resources:
 Project/s:
 1. Harsh weather alerts from WeatherMap API to WhatsApp
 
-   GitHub repo link coming soon.
-   Technologies/Tools used - Python,WeatherMap API, WhatsApp API, DuckDB, AirFlow
+   GitHub repo link:
+    Coming Soon
+   Technologies/Tools used:
+    Python,WeatherMap API, WhatsApp API, DuckDB, AirFlow
 
    Status: Ongoing as of March 2024
+
+   Learnings
+      1. Using Graph API
+      2. Rest API with Python
+      3. Learning scheduling with AirFlow
+      4. Getting familiar with DuckDB
 
