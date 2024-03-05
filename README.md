@@ -9,11 +9,12 @@ My favorite learning resources:
 4. Datafluencers I keenly follow : Zach Wilson, Seattle Data Guy, Deepak Goyal
 
 
-March 2024 update:
 
-Ongoing Project/s:
+Project/s:
 1. Harsh weather alerts from WeatherMap API to WhatsApp
 
    GitHub repo link coming soon.
    Technologies/Tools used - Python,WeatherMap API, WhatsApp API, DuckDB, AirFlow
+
+   Status: Ongoing as of March 2024
 
