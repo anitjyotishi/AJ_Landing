@@ -2,7 +2,9 @@
 This is a landing page for my code and my insights on data engineering. Here, I would be talking about all the data engineering portfolio projects that I am working on and the associated learnings and challenges. This essentially serves as a technical blog. I would also talk about non technical learnings that help me in growing as a developer and as a data engineer. I am also into Astrology and Martial Arts and these hobbies help me become a well rounded individual.
 
 My twitter: anit_jyotishi
+
 My linkedIn: anitj
+
 YouTube channel/s: Insights of AJ, Data with AJ
 
 
