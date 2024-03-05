@@ -1,4 +1,4 @@
-# AJ_Landing
+# Data with AJ
 This is a landing page for my code and my insights on data engineering. Here, I would be talking about all the data engineering portfolio projects that I am working on and the associated learnings and challenges. This essentially serves as a technical blog.
 
 
